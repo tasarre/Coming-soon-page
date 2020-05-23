@@ -2,7 +2,6 @@
 
 ![Design preview for the Base Apparel coming soon page coding challenge](./design/desktop-preview.jpg)
 
-<a href="https://tasarre.github.io/Coming-soon-page/.">Live DEMO</a>
 
 ## Welcome! 👋
 
